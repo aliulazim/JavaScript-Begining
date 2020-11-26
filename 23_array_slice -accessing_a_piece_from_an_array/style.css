@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
